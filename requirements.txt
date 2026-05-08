@@ -1,0 +1,6 @@
+"pyvista[jupyter]"
+KratosMultiphysics-all
+torch torchvision
+optuna
+meshio
+h5py

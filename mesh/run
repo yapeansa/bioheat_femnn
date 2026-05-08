@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm -rf *.msh *.h5 *.xdmf
+gmsh geometria.geo -2 -o malha.msh -format msh2
+python3 converter.py
