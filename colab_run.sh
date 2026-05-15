@@ -4,9 +4,9 @@ apt-get update
 apt-get install -qq xvfb libgl1-mesa-glx
 pip install pyvista -qq
 
-wget https://raw.githubusercontent.com/yapeansa/bioheat_femnn/refs/heads/main/mesh/malha.xdmf
-wget https://raw.githubusercontent.com/yapeansa/bioheat_femnn/refs/heads/main/mesh/malha.h5
-wget https://raw.githubusercontent.com/yapeansa/bioheat_femnn/refs/heads/main/mesh/malha_fina.xdmf
-wget https://raw.githubusercontent.com/yapeansa/bioheat_femnn/refs/heads/main/mesh/malha_fina.h5
+# wget https://raw.githubusercontent.com/yapeansa/bioheat_femnn/refs/heads/main/mesh/malha.xdmf
+# wget https://raw.githubusercontent.com/yapeansa/bioheat_femnn/refs/heads/main/mesh/malha.h5
+# wget https://raw.githubusercontent.com/yapeansa/bioheat_femnn/refs/heads/main/mesh/malha_fina.xdmf
+# wget https://raw.githubusercontent.com/yapeansa/bioheat_femnn/refs/heads/main/mesh/malha_fina.h5
 
 git clone https://github.com/yapeansa/bioheat_femnn.git
