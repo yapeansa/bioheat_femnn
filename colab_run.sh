@@ -8,3 +8,5 @@ wget https://raw.githubusercontent.com/yapeansa/bioheat_femnn/refs/heads/main/me
 wget https://raw.githubusercontent.com/yapeansa/bioheat_femnn/refs/heads/main/mesh/malha.h5
 wget https://raw.githubusercontent.com/yapeansa/bioheat_femnn/refs/heads/main/mesh/malha_fina.xdmf
 wget https://raw.githubusercontent.com/yapeansa/bioheat_femnn/refs/heads/main/mesh/malha_fina.h5
+
+git clone https://github.com/yapeansa/bioheat_femnn.git
